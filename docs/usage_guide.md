@@ -14,7 +14,7 @@ While this public repository doesn't include the source code of Jave's core engi
 - **Disk I/O**: 1MB/s minimum recommended for forensic log throughput
 - **Network Interface**: Full access to ingress/egress preferred
 
-Jave is tested and optimized for AMD Ryzen 7950X3D-class hardware, but scales down beautifully.
+Jave is tested on Intel 7700 and AMD Ryzen 7950X3D-class hardware, but scales beautifully.
 
 ---
 
